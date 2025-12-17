@@ -87,3 +87,5 @@ Ambitious Data Analyst transitioning from nearly three years as a Credit Officer
 ---
 ### Thank you for visiting my portfolio!  
 Feel free to reach out for collaboration or opportunities.
+
+*This portfolio is built with GitHub Pages and maintained by Nhi Tran.*
