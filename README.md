@@ -75,15 +75,15 @@ Ambitious Data Analyst transitioning from nearly three years as a Credit Officer
 ---
 
 ## Contact
-📍 Ho Chi Minh City, Vietnam
+📍 **Address:** Binh Thanh, Ho Chi Minh City
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="20"/> **Email:** tranthihongnhi1709@gmail.com 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="20"/> **Email:** [tranthihongnhi1709@gmail.com](tranthihongnhi1709@gmail.com)
 
 📱 **Phone:** (+84) 707 039 963 
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="20" /> **LinkedIn:** https://linkedin.com/in/nhijulytran-analyst/
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="20" /> **LinkedIn:** [https://linkedin.com/in/nhijulytran-analyst/](https://linkedin.com/in/nhijulytran-analyst/)
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="20" /> **GitHub:** https://github.com/trannhi1709 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="20" /> **GitHub:** [https://github.com/trannhi1709](https://github.com/trannhi1709) 
 
 ---
 ### Thank you for visiting my portfolio!  
