@@ -1,6 +1,6 @@
 # Data Analyst
 ## About Me
-Ambitious Data Analyst transitioning from nearly three years as a Credit Officer in **banking**, **corporate finance** background, and hands-on learning in **Excel, SQL, Power BI, and Python**. Experienced in analyzing financial data, customer profiles, and risk metrics to support informed decisions. Seeking roles in financial analytics, risk analysis, sales performance analytics, and product/ data analysis.
+Entry-level Data Analyst with 3 years of experience in banking as a Credit Officer, strong domain knowledge in credit, risk assessment, and financial performance. Hands-on experience in **Excel, SQL, Python, and Power BI** to analyze customer behavior, financial KPIs, and risk metrics, with an analytical mindset and business understanding.
 
 ---
 
